@@ -1,0 +1,85 @@
+# depslib dependency file v1.0
+1562874644 source:c:\users\domin\desktop\c++\wisielec\main.cpp
+	<iostream>
+	"wisielec.h"
+
+1564588004 c:\users\domin\desktop\c++\wisielec\wisielec.h
+	<iostream>
+
+1564589299 source:c:\users\domin\desktop\c++\wisielec\wisielec.cpp
+	<iostream>
+	<cstring>
+	<cctype>
+	"wisielec.h"
+	"Utils.h"
+
+1564588003 c:\users\domin\desktop\c++\wisielec\utils.h
+
+1564589267 source:c:\users\domin\desktop\c++\wisielec\utils.cpp
+	<iostream>
+	<cctype>
+	"Utils.h"
+
+1569091671 source:c:\users\domin\desktop\cpp\obiektowy_cpp\gry\wisielec\main.cpp
+	<iostream>
+	"wisielec.h"
+
+1564588004 c:\users\domin\desktop\cpp\obiektowy_cpp\gry\wisielec\wisielec.h
+	<iostream>
+
+1564589267 source:c:\users\domin\desktop\cpp\obiektowy_cpp\gry\wisielec\utils.cpp
+	<iostream>
+	<cctype>
+	"Utils.h"
+
+1564588003 c:\users\domin\desktop\cpp\obiektowy_cpp\gry\wisielec\utils.h
+
+1569091671 source:c:\users\domin\desktop\cpp\obiektowy_cpp\gry\wisielec\wisielec.cpp
+	<iostream>
+	<cstring>
+	<cctype>
+	"wisielec.h"
+	"Utils.h"
+
+1575418706 source:c:\users\dominika.desktop-epac6nf\desktop\cpp\obiektowy_cpp\gry\wisielec\main.cpp
+	<iostream>
+	"wisielec.h"
+
+1575418706 c:\users\dominika.desktop-epac6nf\desktop\cpp\obiektowy_cpp\gry\wisielec\wisielec.h
+	<iostream>
+
+1575418706 source:c:\users\dominika.desktop-epac6nf\desktop\cpp\obiektowy_cpp\gry\wisielec\utils.cpp
+	<iostream>
+	<cctype>
+	"Utils.h"
+
+1575418706 c:\users\dominika.desktop-epac6nf\desktop\cpp\obiektowy_cpp\gry\wisielec\utils.h
+
+1575418706 source:c:\users\dominika.desktop-epac6nf\desktop\cpp\obiektowy_cpp\gry\wisielec\wisielec.cpp
+	<iostream>
+	<cstring>
+	<cctype>
+	"wisielec.h"
+	"Utils.h"
+
+1650917190 source:c:\users\dominika.desktop-epac6nf\desktop\c++\cpp\obiektowy_cpp\gry\wisielec\main.cpp
+	<iostream>
+	"Wisielec.h"
+
+1650917641 c:\users\dominika.desktop-epac6nf\desktop\c++\cpp\obiektowy_cpp\gry\wisielec\wisielec.h
+	<iostream>
+
+1575418706 source:c:\users\dominika.desktop-epac6nf\desktop\c++\cpp\obiektowy_cpp\gry\wisielec\utils.cpp
+	<iostream>
+	<cctype>
+	"Utils.h"
+
+1575418706 c:\users\dominika.desktop-epac6nf\desktop\c++\cpp\obiektowy_cpp\gry\wisielec\utils.h
+
+1650917219 source:c:\users\dominika.desktop-epac6nf\desktop\c++\cpp\obiektowy_cpp\gry\wisielec\wisielec.cpp
+	<iostream>
+	<cstring>
+	<cctype>
+	"Wisielec.h"
+	"Utils.h"
+
